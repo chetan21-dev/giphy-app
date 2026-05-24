@@ -24,7 +24,7 @@ function Giphy() {
       try {
         const results = await SecureAxios.get("/trending", {
           params: {
-            api_key: {API_KEY},
+            api_key: API_KEY,
             limit: 100,
           },
         });
