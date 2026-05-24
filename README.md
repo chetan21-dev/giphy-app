@@ -9,9 +9,9 @@ The application includes:
 - Responsive and user-friendly UI
 
 ## Project Screenshot
-![Image]('../../src/assets/images/gifs.png')
+![Image](../../src/assets/images/gifs.png)
 
-![Image]('../../src/assets/images/gifs_with_search_functionality.jpeg')
+![Image](../../src/assets/images/gifs_with_search_functionality.jpeg)
  
 ## Technologies Used
 
